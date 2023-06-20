@@ -1,0 +1,8 @@
+C:\Users\hathh\Desktop\Malware Development\FodHelper\FodHelper\bin\Release\FodHelper.exe.config
+C:\Users\hathh\Desktop\Malware Development\FodHelper\FodHelper\bin\Release\FodHelper.exe
+C:\Users\hathh\Desktop\Malware Development\FodHelper\FodHelper\bin\Release\FodHelper.pdb
+C:\Users\hathh\Desktop\Malware Development\FodHelper\FodHelper\obj\Release\FodHelper.csproj.AssemblyReference.cache
+C:\Users\hathh\Desktop\Malware Development\FodHelper\FodHelper\obj\Release\FodHelper.csproj.SuggestedBindingRedirects.cache
+C:\Users\hathh\Desktop\Malware Development\FodHelper\FodHelper\obj\Release\FodHelper.csproj.CoreCompileInputs.cache
+C:\Users\hathh\Desktop\Malware Development\FodHelper\FodHelper\obj\Release\FodHelper.exe
+C:\Users\hathh\Desktop\Malware Development\FodHelper\FodHelper\obj\Release\FodHelper.pdb
